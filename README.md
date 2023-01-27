@@ -1,4 +1,4 @@
-<img src="https://distok.top/stickers/749043879713701898/749052944682582036.gif" width="40" height="35" /> **__Status__** :
+<img src="https://distok.top/stickers/749043879713701898/749052944682582036.gif" width="30" height="35" /> **__Status__** :
 
 ![Discord](https://discord-readme-badge.vercel.app/api?id=897155472887529582)
 
