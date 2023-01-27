@@ -1,4 +1,4 @@
-**__Status __** :
+**__Status__** :
 
 ![Discord](https://discord-readme-badge.vercel.app/api?id=897155472887529582)
 
