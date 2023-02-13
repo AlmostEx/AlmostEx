@@ -6,5 +6,5 @@
 <img src="https://cdn3.emoji.gg/emojis/9656-stats.png" width="30" height="35" /> **__Stats__** :
 
 
-![ex's GitHub stats](https://github-readme-stats.vercel.app/api?username=ex0404&show_icons=true&theme=radical)
+![ex's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlmostEx&show_icons=true&theme=radical)
 
